@@ -44,7 +44,7 @@
 1. After reloading the customization panel, ensure that the changes you made are reflected in the preview of your Shopify store.
 
 
-# Creating a Product With Product
+# Creating a Product With Variant
 
 ## Step 1: Access Product Variants
 
