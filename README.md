@@ -1,4 +1,4 @@
-# How to Install and Customize the REFRESH Theme on Shopify
+#  Customize The Defalut Product Page Theme In Shopify
 
 ## Install the Theme:
 
