@@ -5,12 +5,13 @@
 1. **Log in to your Shopify admin panel.**
 2. Navigate to **Online Store > Themes**.
 3. Click on either "Explore free themes" or "Visit Theme Store" to browse available themes.
-4. Find the **REFRESH** theme and install it.
+4. Choose any Theme  and install it
+5. Recommend theme : (**REFRESH**)
 
 ## Open Customization Window:
 
 1. After installing the theme, return to **Online Store > Themes**.
-2. Locate the **REFRESH** theme and click on "Customize".
+2. Locate the theme and click on "Customize".
 
 ## Access Code Editor:
 
