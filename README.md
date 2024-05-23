@@ -42,3 +42,28 @@
 ## Verify Changes:
 
 1. After reloading the customization panel, ensure that the changes you made are reflected in the preview of your Shopify store.
+
+
+### Creating a Product With Product
+
+## Step 1: Access Product Variants
+
+1. Scroll down to the **Variants** section of the product settings.
+2. Click on the variant you want to match with the product image alt text.
+
+## Step 2: Set Variant Title
+
+1. In the variant settings, locate the **Variant Title** field.
+2. Ensure that the variant title accurately describes the variant.
+
+## Step 3: Set Image Alt Text
+
+1. Scroll up to the **Images** section of the product settings.
+2. Click on the image associated with the variant.
+3. In the image settings, find the **Alt text** field in right side of the screen.
+4. Enter the same variant title as the alt text for the image (case sensitive).
+
+## Step 4: Save Changes
+
+1. After setting the variant title as the image alt text, click **Save** to apply the changes to the product.
+
